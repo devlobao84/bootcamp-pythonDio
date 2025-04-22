@@ -227,4 +227,4 @@ media = np.mean(dados)
 print(f"Média: {media}")  # Saída: Média: 3.0
 ```
 
-Com esses exemplos e dicas, você pode aprimorar suas habilidades em Python e configurar seu ambiente de desenvolvimento de forma eficiente!
+### Com esses exemplos e dicas, você pode aprimorar suas habilidades em Python e configurar seu ambiente de desenvolvimento de forma eficiente!
